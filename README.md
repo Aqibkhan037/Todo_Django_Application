@@ -2,6 +2,7 @@
 
 https://github.com/Aqibkhan037/Todo_Django_Application/blob/main/screenshot.jpg
 https://github.com/Aqibkhan037/Todo_Django_Application/blob/main/Screenshot2.jpg
+https://github.com/Aqibkhan037/Todo_Django_Application/blob/main/Screenshot3.jpg
 
 
 
@@ -254,5 +255,6 @@ ________________________________________________________________________________
 If you have any questions or need help, please:
 
 Email me at aqibkhan1582000@gmail.com
+
 
 
